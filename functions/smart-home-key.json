@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smarthomegateway-4b3e5",
+  "private_key_id": "115ee56fe2f19e826071694b297afef8c55eda2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBXqkVo84NJb6E\n/GECBGWJWnPLVztTtuXICrf9RDiX6TO+VuCxQFW2yJaQnsn9wOwiQqQX7VYRGi/K\nLjbL4DfrvZTG2uaQK7IwhqXn7OAKbWN/Hm5ivpIxzEuOwV+afTkocwZoYcuxJ0Zv\ngnwZXebBVm2GEUlAyp410R2sLx5ZacTf7lplVJ689dEfSbmOfdRT4MUeWteHTIi7\np34HYGhZBgcvrIvlh1HH5Vpurbv/tTGde38uztzEjsbeIREoDXMoAJv8rLvpJi6b\nPCZ9cIOuzHHnTVZCPIlVa0HqSaY0O5LTkPGktuAOGnwP6oIWkDWSHvCtNH70511c\nOa6A3Wd7AgMBAAECggEAKsGei31jwz50SP1xCbwlI2DPt8d7A8CuQDQ2iJa8GMLk\nwRJ+rlK2YSsrN6EUsrokvFKV7AB7hl6O8JqVXTEfzE1oByxBzOEMjnRHXOfghg23\n8VSuPcE7nC07C76wP/2uVMZSRWRSYMJ5bZChlg5QRrGwl/NciioDH400jW0Bve0l\nrcuQnmhlIiwUeGp7hWYHPG/zg+rOxWmjH/mjzuZRLckfLSN8Uw1Pv5oFoIudcWHb\nR7Wq7Ly6dCvHpQhSOrHz6R++rU66HByp/wQBrbEM5q4kXLVvwob6tM+k2pq2GOhm\n8D/77Ktz59qoi+o3HdmaCPCmzJi3C5bs5GBE93CTSQKBgQDpLbX0RydYh06zch1v\niWccxDHAXxSoooaRnQN89i0JVN+1nfhyTqh8qh3k7o1V7EQlXI/MM9oZ09XHxOeu\n4VIcxWEo/+RMaU6JlvP5azimSmzfQ15mwHzI0ZVoZ5BB420JpZGjNNvA35Bz2Z03\n552XeV+YvQJzmV443Igmbww77wKBgQDUS4pYRKLDHefeXrNrJV9rbf20UMjP5iBa\nexv/FDyuCPecKyzbhMloMD6K2U0KkL4B7TOo50g7CVhZKe/aUUHxVWWhpI0Wbffd\nn+up9VtGYv6ezBwU+jOMpqGm8h3q3iCG8TWgbn0uR+pbw0gqgcD+062qEFIz+/rn\na/CceqfxNQKBgEU7HyTR42qzcbhxjy/IeebekW7uS/Htn0qodZqqdKCqpGkF5/f4\nRqoM0CdidHAoX+s/2ink00KL1JMlcSxJFdoY+En1/9B4C6tqODG7lew5eK2pEOQt\nDl+JanS/GuOVJJCSqfTtArn3Jqpe2AD7MZ0BmlJ8+7dat9DmGT5gBh/dAoGAJLYP\nbWYpEz6nqw+LTTsAPi6eEcFqiHEOJTdmxvxz5dCNKQdaUXer8IVvO0mKhgozoVeo\neEvOdM8P5RNYc9NbaOVQltxCvZ80nrGZ6iEQsKJLz6ASNxpxMaBbEeiKfeP9kfhC\nQsT4hrlO8KFbaGZZvndSb7c0z+KCJ+TFjfmz8wUCgYEAnGeyUFg1KjEJa1Rwqaok\nQXUuiU9AJrbCKF9k4vtG2VAKHgRHL3IKUBI4NHsisTvqHlRqVltlgS+Vclhstn3c\nHJpb1OmyWw1s6SZ4ZZFKe9Q08rHIjUav7VN6b+gmErM+U2JvxotLlgPWkJJq9StI\njFgN/h7ugKl4uA/KRVK+Xfc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8oqob@smarthomegateway-4b3e5.iam.gserviceaccount.com",
+  "client_id": "114783868387362213322",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8oqob%40smarthomegateway-4b3e5.iam.gserviceaccount.com"
+}

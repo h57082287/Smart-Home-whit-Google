@@ -1,0 +1,30 @@
+{
+	"requestId": "body.requestId",
+	"payload":{
+      "agentUserId": "1836.15267389",
+      "devices": [{
+        "id": "1",
+        "type": "action.devices.types.SWITCH",
+        "traits": [
+          "action.devices.traits.OnOff"
+        ],
+        "name": {
+          "defaultNames": [],
+          "name": "尻尻模式",
+          "nicknames": ["尻尻模式"]
+        },
+        "willReportState": true,
+        "deviceInfo": {
+          "manufacturer": "AAA",
+          "model": "442",
+          "hwVersion": "3.2",
+          "swVersion": "11.4"
+        },
+        "customData": {
+          "fooValue": 10,
+          "barValue": true,
+          "bazValue": "switchabc"
+        }
+      }]
+    }
+}
